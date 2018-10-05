@@ -2,6 +2,10 @@ h1 {
     color: #138913;
 }
 
+#navbar {
+    height: 100px;
+}
+
 .b {
     display: inline-flex;
     height: 100px;
